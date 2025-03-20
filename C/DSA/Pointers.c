@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include <16f877a.h>
+
 int main(){
     int a= 1025;
     int *p;
