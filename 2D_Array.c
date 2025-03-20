@@ -9,5 +9,7 @@ int main(){
             printf("[%d] [%d] %d\n", i,j,marks[i][j]);
         }
     }
+
+
     
 }
