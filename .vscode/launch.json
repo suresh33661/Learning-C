@@ -95,8 +95,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/C/C++/C/DSA/OOPs",
-      "program": "d:/C/C++/C/DSA/OOPs/build/Debug/outDebug",
+      "cwd": "d:/C/C++/C/DSA",
+      "program": "d:/C/C++/C/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
