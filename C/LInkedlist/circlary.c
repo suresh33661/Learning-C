@@ -11,7 +11,7 @@ struct node *head = NULL, *temp;
 void create(int data){
     struct node * newnode = (struct node*)malloc(sizeof(struct node));
     newnode->data = data;
-    newnode->next = head;
+    newnode->next = NULL;
     
     if (head == NULL){
         head = temp = newnode;
